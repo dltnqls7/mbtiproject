@@ -96,4 +96,4 @@ mbti_celebrity = {
     },
     "ESTP": {
         "celebrities": ["제이홉 (BTS) 🔥", "이효리 ⚡", "김종국 💪"],
-        "description": "모험을 즐기는 사업가! 활동적이고 대
+        "description": "모험을 즐기는 사업가! 활동적이고 대담해요!"
